@@ -1,11 +1,12 @@
-## Business Problem
+# Business Problem
 
-E-commerce businesses generate large amounts of sales and customer data, but often struggle to answer:
+A bicycle company wants to understand which customer groups are more likely to purchase bikes.
 
-- Which products generate the most revenue?
-- Where are customers dropping off in the funnel?
-- Which regions perform best?
-- How can conversion rates be improved?
-- Which customer segments drive revenue?
+The objective is to analyze customer demographics and purchasing behaviour to identify:
 
-This dashboard provides actionable insights to answer these questions.
+- High-value customer segments
+- Income influence on bike purchases
+- Age group trends
+- Commute distance impact on purchasing decisions
+
+The insights can help improve marketing strategies and sales performance.
