@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes customer purchasing behaviour using a Bike Sales dataset and an interactive Excel dashboard.
+This project analyses customer purchasing behaviour using a Bike Sales dataset and an interactive Excel dashboard.
 
 The objective is to identify customer characteristics that influence bike purchases and provide actionable business insights through data visualization.
 
@@ -40,7 +40,7 @@ The dataset contains customer demographic and purchasing information, including:
 
 ## Dashboard Preview
 
-![Dashboard](Images/Dashboard_Overview.png)
+![Dashboard](Images/bike_sales_dashboard.png)
 
 ## KPIs Tracked
 
