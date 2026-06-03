@@ -87,9 +87,8 @@ Harshit Kaishwar
 
 Aspiring Data Analyst
 
-LinkedIn: [Link]
+LinkedIn: [ www.linkedin.com/in/harshit-kaishwar-7286112b9]
 
-GitHub: [Link]
 
 
 
